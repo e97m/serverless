@@ -1,3 +1,9 @@
+# https://www.programcreek.com/python/?code=kuri65536%2Fpython-for-android%2Fpython-for-android-master%2Fpython-build%2Fpython-scripts%2Ftest.py#
+
+import sys
+droid = None
+skip_gui = False
+
 def test_075_httpserver():                      # issue #75 {{{1
     import time
     import threading
