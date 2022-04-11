@@ -1,0 +1,4 @@
+Hi...
+This is a txt file inside the serverless project
+
+Emad
