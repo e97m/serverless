@@ -21,3 +21,6 @@ You can visit the website pages by the following:
 - https://serverless-nine-bice.vercel.app/api/read_file
 - https://serverless-nine-bice.vercel.app/api/parse
 
+<br>
+
+![screenshot](./data/Screenshot.png)
