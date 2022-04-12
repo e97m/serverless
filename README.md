@@ -21,6 +21,15 @@ You can visit the website pages by the following:
 - https://serverless-nine-bice.vercel.app/api/read_file
 - https://serverless-nine-bice.vercel.app/api/parse
 
+    After this url you can add a parameter `?name=FirstName`, for example:
+    https://serverless-nine-bice.vercel.app/api/parse?name=Emad
+
 <br>
 
 ![screenshot](./data/Screenshot.png)
+
+<br>
+
+### Thunder Client test
+
+![Thunder Client test](./data/thunder.png)

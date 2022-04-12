@@ -1,3 +1,5 @@
+# https://vercel.com/docs/runtimes#advanced-usage/advanced-python-usage
+
 from http.server import BaseHTTPRequestHandler
 from os.path import join
 
