@@ -30,6 +30,17 @@ You can visit the website pages by the following:
 
 <br>
 
-### Thunder Client test
+### Thunder Client testing
+
+To test the web site in thunder cliente, do the following:
+
+- open VS Code
+- install the extention Thunder Client
+- open a new tab from thunder cliente
+- selexct the method GET
+- enter the URL that you want to test without parameters
+- under the tab Query enter the parameter and enter its value
+- click send to receve the result in the right window
+- The reponce status shoud be 200 OK and the responce should mension the name that you put in query string.
 
 ![Thunder Client test](./data/thunder.png)
